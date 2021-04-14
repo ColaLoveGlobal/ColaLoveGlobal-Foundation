@@ -1,7 +1,7 @@
-# BTCraftman-Foundation
-The project of ColaLove Foundation
-                                  克拉商城全球站 
-                                  ColaLoveGlobal
+# ColaLoveGlobal-Foundation
+The project of ColaLoveGlobal Foundation
+                                                       克拉商城全球站 
+                                                       ColaLoveGlobal
 
     克拉百货商行(英文名ColaLoveGlobal)是一家全球性综合网络零售商，是全球电子商务领域最受消费者欢迎和具有影响力的电子商务网站之一，在线销售家电、数码通讯、电脑、家居百货、服装服饰、母婴、在线旅游等12大类多品牌优质商品。克拉百货商行自成立之初就本着消费者第一的原则，致力于打造全球首家轻奢品购物返利平台，平台终极目标是为实现消费者购物全返货款、引领全球轻奢品零元购新模式。
 
